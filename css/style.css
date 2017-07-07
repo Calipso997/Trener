@@ -1,0 +1,126 @@
+.no_style {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body{
+	font-family: 'Lato', sans-serif;
+}
+
+.row {
+    margin-right: 0;
+}
+
+/*~~~~NAV START~~~~*/
+.nav-link {
+    margin-left: 25%;
+    margin-right: 25%;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.linkcontact {
+    margin-right: 40%;
+}
+
+.home {
+    background-color: white;
+}
+
+.collapse navbar-collapse {
+    height: 100%;
+}
+
+.navbar {
+    padding: 0;
+    box-shadow: 0px 10px 10px 0px rgba(0, 0, 0, 0.4);
+    z-index: 10;
+}
+
+#navimg {
+   
+}
+/*~~ŃAV END~~~~*/
+
+
+
+
+/*~~~~~~~~ŚLIDER START~~~~~~~~~~*/
+
+.carousel-item {
+    height: 95vh;  
+	width: 100vw;
+}
+
+/*~~~~~~~~SLIDER END~~~~~~~~~~*/
+
+
+/*~~~~~~~~~~~~CENTER START~~~~~~~~~~~~~~*/
+
+.section {
+    margin: 0;
+    padding: 0;
+}
+
+.o-mnie{
+    background: linear-gradient( #ececeb, #8b8b8a);
+    border-top: 2px solid #685044;
+    border-bottom: 2px solid #685044;
+	padding-left: 50px;
+	padding-right: 50px;
+}
+
+.about_me{
+	padding: 25px;
+	text-align: center;
+	display: inline-block;
+    justify-content:space-between;	
+	
+	line-height: 1.3;
+}
+
+
+.middle {
+    display: inline-block;
+    flex-flow: row wrap;
+    justify-content: center;
+    align-items: center;
+    width: 33%;
+	height: 100vh;
+}
+
+.mccontact {
+	display: inline-block;
+    flex-flow: row wrap;
+    justify-content: space-between;
+    align-items: center;
+	padding: 30%;
+}
+
+.center {
+     background: linear-gradient( #8b8b8a, #ececeb);
+	
+}
+
+.img {
+    width: 100%;
+    height: 100vh;
+}
+
+.fb-page {
+    height: 70px;
+    width: 180px;
+}
+
+/*~~~~~~FOOTER START~~~~~~*/
+footer {
+	padding-top: 1rem !important;
+	padding-bottom: 1rem !important;
+	background-color: #ececeb;
+	 border-top: 2px solid #685044;
+}
+
+
+
+
